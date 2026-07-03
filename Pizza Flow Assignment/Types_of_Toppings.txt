@@ -1,0 +1,10 @@
+1 ; Sweet Corn ; 39
+2 ; Button Mushrooms ; 45
+3 ; Green Peppers ; 45
+4 ; Black Olives ; 49
+5 ; Caramelised Onions ; 49
+6 ; Jalapenos ; 55
+7 ; Sun-Dried Tomatoes ; 59
+8 ; Roasted Garlic ; 59
+9 ; Extra Cheese ; 65
+10 ; Peri-Peri Drizzle ; 69
