@@ -32,3 +32,37 @@ GST (18%): Rs.619.16
 Grand Total: Rs.4058.96
 Payment Mode: Card
 
+--- Session started: 2026-07-03 22:36:10 ---
+
+Timestamp: 2026-07-03 22:36:32
+Customer Name: Sumedh
+Phone: 7666906976
+Base: Cheese Burst | Rs.229.00
+Pizza: Farm House | Rs.319.00
+Topping: Sweet Corn | Rs.39.00
+Unit Price Total: Rs.587.00
+Quantity: 1
+Subtotal: Rs.587.00
+Discount Rate: 0%
+Discount Amount: Rs.0.00
+Post-Discount Total: Rs.587.00
+GST (18%): Rs.105.66
+Grand Total: Rs.692.66
+Payment Mode: Cash
+
+Timestamp: 2026-07-03 22:37:07
+Customer Name: exit
+Phone: 9969503615
+Base: Thin Crust | Rs.149.00
+Pizza: Greek Mediterranean | Rs.339.00
+Topping: Green Peppers | Rs.45.00
+Unit Price Total: Rs.533.00
+Quantity: 4
+Subtotal: Rs.2132.00
+Discount Rate: 0%
+Discount Amount: Rs.0.00
+Post-Discount Total: Rs.2132.00
+GST (18%): Rs.383.76
+Grand Total: Rs.2515.76
+Payment Mode: UPI
+
